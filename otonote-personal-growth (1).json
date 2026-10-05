@@ -1,0 +1,666 @@
+{
+  "format": "otonote-personal-growth",
+  "schemaVersion": 1,
+  "region": "global",
+  "serverId": "global-en",
+  "inventory": {
+    "schemaVersion": 1,
+    "sourceReleaseId": "global-prod-remote-1-0-0-300-86a19b0c-0947498bc108756b2cc388d4c971105e-ce5786b7ddada",
+    "memberCardIds": [
+      "member-card-1",
+      "member-card-2",
+      "member-card-3",
+      "member-card-4",
+      "member-card-5",
+      "member-card-6",
+      "member-card-7",
+      "member-card-8",
+      "member-card-9",
+      "member-card-10",
+      "member-card-11",
+      "member-card-12",
+      "member-card-13",
+      "member-card-14",
+      "member-card-15",
+      "member-card-16",
+      "member-card-17",
+      "member-card-18",
+      "member-card-19",
+      "member-card-20",
+      "member-card-21",
+      "member-card-22",
+      "member-card-23",
+      "member-card-24",
+      "member-card-25",
+      "member-card-28",
+      "member-card-29",
+      "member-card-31",
+      "member-card-33",
+      "member-card-34",
+      "member-card-41",
+      "member-card-42",
+      "member-card-44",
+      "member-card-46",
+      "member-card-47",
+      "member-card-49",
+      "member-card-53",
+      "member-card-57",
+      "member-card-59",
+      "member-card-60",
+      "member-card-63"
+    ],
+    "supportCardIds": [
+      "support-card-1",
+      "support-card-2",
+      "support-card-3",
+      "support-card-4",
+      "support-card-5",
+      "support-card-6",
+      "support-card-7",
+      "support-card-8",
+      "support-card-9",
+      "support-card-10",
+      "support-card-11",
+      "support-card-12",
+      "support-card-13",
+      "support-card-14",
+      "support-card-15",
+      "support-card-16",
+      "support-card-17",
+      "support-card-18",
+      "support-card-19",
+      "support-card-20",
+      "support-card-21",
+      "support-card-22",
+      "support-card-23",
+      "support-card-24",
+      "support-card-25",
+      "support-card-26",
+      "support-card-27",
+      "support-card-28",
+      "support-card-29",
+      "support-card-30",
+      "support-card-31",
+      "support-card-32",
+      "support-card-33",
+      "support-card-35",
+      "support-card-36",
+      "support-card-38",
+      "support-card-40",
+      "support-card-43",
+      "support-card-44",
+      "support-card-46",
+      "support-card-47",
+      "support-card-49",
+      "support-card-50",
+      "support-card-51",
+      "support-card-52",
+      "support-card-53",
+      "support-card-56",
+      "support-card-58",
+      "support-card-59",
+      "support-card-60",
+      "support-card-61",
+      "support-card-64",
+      "support-card-70"
+    ],
+    "growth": {
+      "member-card-1": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-2": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-3": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 1
+      },
+      "member-card-4": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 1
+      },
+      "member-card-5": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 1
+      },
+      "member-card-6": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-7": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-8": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-9": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-10": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-11": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 1
+      },
+      "member-card-12": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-13": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-14": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-15": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-16": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 1
+      },
+      "member-card-17": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-18": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-19": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-20": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-21": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-22": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-23": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-24": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-25": {
+        "level": 70,
+        "rank": 5,
+        "awake": 5,
+        "skillLevel": 5,
+        "gekisouSkillLevel": 5
+      },
+      "member-card-28": {
+        "level": 60,
+        "rank": 2,
+        "awake": 3,
+        "skillLevel": 3,
+        "gekisouSkillLevel": 3
+      },
+      "member-card-29": {
+        "level": 60,
+        "rank": 1,
+        "awake": 3,
+        "skillLevel": 4,
+        "gekisouSkillLevel": 3
+      },
+      "member-card-31": {
+        "level": 70,
+        "rank": 1,
+        "awake": 4,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 1
+      },
+      "member-card-33": {
+        "level": 60,
+        "rank": 1,
+        "awake": 3,
+        "skillLevel": 3,
+        "gekisouSkillLevel": 3
+      },
+      "member-card-34": {
+        "level": 70,
+        "rank": 2,
+        "awake": 4,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 3
+      },
+      "member-card-41": {
+        "level": 70,
+        "rank": 1,
+        "awake": 4,
+        "skillLevel": 4,
+        "gekisouSkillLevel": 4
+      },
+      "member-card-42": {
+        "level": 70,
+        "rank": 1,
+        "awake": 4,
+        "skillLevel": 3,
+        "gekisouSkillLevel": 3
+      },
+      "member-card-44": {
+        "level": 60,
+        "rank": 1,
+        "awake": 3,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 1
+      },
+      "member-card-46": {
+        "level": 60,
+        "rank": 1,
+        "awake": 3,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 1
+      },
+      "member-card-47": {
+        "level": 60,
+        "rank": 2,
+        "awake": 3,
+        "skillLevel": 3,
+        "gekisouSkillLevel": 3
+      },
+      "member-card-49": {
+        "level": 60,
+        "rank": 1,
+        "awake": 3,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 1
+      },
+      "member-card-53": {
+        "level": 90,
+        "rank": 2,
+        "awake": 5,
+        "skillLevel": 4,
+        "gekisouSkillLevel": 3
+      },
+      "member-card-57": {
+        "level": 80,
+        "rank": 2,
+        "awake": 4,
+        "skillLevel": 2,
+        "gekisouSkillLevel": 2
+      },
+      "member-card-59": {
+        "level": 70,
+        "rank": 1,
+        "awake": 3,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 1
+      },
+      "member-card-60": {
+        "level": 80,
+        "rank": 1,
+        "awake": 4,
+        "skillLevel": 4,
+        "gekisouSkillLevel": 3
+      },
+      "member-card-63": {
+        "level": 80,
+        "rank": 4,
+        "awake": 5,
+        "skillLevel": 4,
+        "gekisouSkillLevel": 3
+      },
+      "support-card-1": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-2": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-3": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-4": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-5": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-6": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-7": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-8": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-9": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-10": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-11": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-12": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-13": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-14": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-15": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-16": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-17": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-18": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-19": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-20": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-21": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-22": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-23": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-24": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-25": {
+        "level": 70,
+        "rank": 5
+      },
+      "support-card-26": {
+        "level": 40,
+        "rank": 3
+      },
+      "support-card-27": {
+        "level": 1,
+        "rank": 1
+      },
+      "support-card-28": {
+        "level": 40,
+        "rank": 1
+      },
+      "support-card-29": {
+        "level": 50,
+        "rank": 2
+      },
+      "support-card-30": {
+        "level": 1,
+        "rank": 1
+      },
+      "support-card-31": {
+        "level": 1,
+        "rank": 1
+      },
+      "support-card-32": {
+        "level": 40,
+        "rank": 2
+      },
+      "support-card-33": {
+        "level": 50,
+        "rank": 3
+      },
+      "support-card-35": {
+        "level": 40,
+        "rank": 1
+      },
+      "support-card-36": {
+        "level": 1,
+        "rank": 1
+      },
+      "support-card-38": {
+        "level": 1,
+        "rank": 2
+      },
+      "support-card-40": {
+        "level": 40,
+        "rank": 1
+      },
+      "support-card-43": {
+        "level": 1,
+        "rank": 1
+      },
+      "support-card-44": {
+        "level": 40,
+        "rank": 3
+      },
+      "support-card-46": {
+        "level": 40,
+        "rank": 1
+      },
+      "support-card-47": {
+        "level": 40,
+        "rank": 1
+      },
+      "support-card-49": {
+        "level": 50,
+        "rank": 2
+      },
+      "support-card-50": {
+        "level": 40,
+        "rank": 1
+      },
+      "support-card-51": {
+        "level": 50,
+        "rank": 1
+      },
+      "support-card-52": {
+        "level": 50,
+        "rank": 1
+      },
+      "support-card-53": {
+        "level": 50,
+        "rank": 1
+      },
+      "support-card-56": {
+        "level": 60,
+        "rank": 2
+      },
+      "support-card-58": {
+        "level": 60,
+        "rank": 2
+      },
+      "support-card-59": {
+        "level": 50,
+        "rank": 1
+      },
+      "support-card-60": {
+        "level": 50,
+        "rank": 1
+      },
+      "support-card-61": {
+        "level": 90,
+        "rank": 5
+      },
+      "support-card-64": {
+        "level": 60,
+        "rank": 5
+      },
+      "support-card-70": {
+        "level": 90,
+        "rank": 5
+      }
+    }
+  },
+  "account": {
+    "bandItems": {
+      "101": 4,
+      "102": 5,
+      "103": 4,
+      "104": 4,
+      "105": 4,
+      "201": 4,
+      "202": 3,
+      "203": 4,
+      "204": 4,
+      "205": 4,
+      "301": 5,
+      "302": 5,
+      "303": 5,
+      "304": 5,
+      "305": 5,
+      "401": 4,
+      "402": 4,
+      "403": 5,
+      "404": 5,
+      "405": 4,
+      "501": 4,
+      "502": 4,
+      "503": 5,
+      "504": 4,
+      "505": 4
+    },
+    "characterRanks": {
+      "1": 20,
+      "2": 17,
+      "3": 19,
+      "4": 17,
+      "5": 15,
+      "6": 20,
+      "7": 20,
+      "8": 21,
+      "9": 21,
+      "10": 24,
+      "11": 17,
+      "12": 17,
+      "13": 17,
+      "14": 17,
+      "15": 18,
+      "16": 19,
+      "17": 18,
+      "18": 17,
+      "19": 17,
+      "20": 17,
+      "21": 19,
+      "22": 19,
+      "23": 17,
+      "24": 17,
+      "25": 17
+    },
+    "tgwCardRank": 8
+  }
+}
