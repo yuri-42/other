@@ -73,6 +73,7 @@
       "member-card-67",
       "member-card-69",
       "member-card-70",
+      "member-card-71",
       "member-card-72",
       "member-card-73",
       "member-card-74"
@@ -615,11 +616,18 @@
         "skillLevel": 5,
         "gekisouSkillLevel": 1
       },
+      "member-card-71": {
+        "level": 70,
+        "rank": 1,
+        "awake": 3,
+        "skillLevel": 1,
+        "gekisouSkillLevel": 1
+      },
       "member-card-72": {
         "level": 80,
         "rank": 1,
         "awake": 4,
-        "skillLevel": 2,
+        "skillLevel": 3,
         "gekisouSkillLevel": 1
       },
       "member-card-73": {
