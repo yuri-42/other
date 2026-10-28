@@ -5,7 +5,7 @@
   "serverId": "global-en",
   "inventory": {
     "schemaVersion": 1,
-    "sourceReleaseId": "global-prod-remote-1-1-0-100-d0f39ee4-adb88daa-2fc544ff9420d78c1f521792ab85ad53-c1e5e2dca8254",
+    "sourceReleaseId": "global-prod-remote-1-1-0-103-34bb374a-ef436dc5-a1ba9587e3255fddc96e2c88f511b18f-c1e5e2dca8254",
     "memberCardIds": [
       "member-card-1",
       "member-card-2",
@@ -818,7 +818,7 @@
       },
       "support-card-46": {
         "level": 70,
-        "rank": 4
+        "rank": 5
       },
       "support-card-47": {
         "level": 70,
@@ -866,7 +866,7 @@
       },
       "support-card-58": {
         "level": 80,
-        "rank": 4
+        "rank": 5
       },
       "support-card-59": {
         "level": 60,
@@ -890,7 +890,7 @@
       },
       "support-card-65": {
         "level": 60,
-        "rank": 2
+        "rank": 3
       },
       "support-card-67": {
         "level": 80,
@@ -925,8 +925,8 @@
         "rank": 1
       },
       "support-card-77": {
-        "level": 50,
-        "rank": 3
+        "level": 59,
+        "rank": 5
       }
     }
   },
